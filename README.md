@@ -1,6 +1,6 @@
 ### Hi there ✨
 
-<!-- My name is Ebony Moorer and I am new tech transition. I am currently learning AWS and am AWS Certfied. I am new to using Github and learning Docker, Terraform and hope to expand my horizions! 🌈>
+My name is Ebony Moorer and I am new tech transition. I am currently learning AWS and am AWS Certfied. I am new to using Github and learning Docker, Terraform and hope to expand my horizions! 🌈
 
 Find out more about me & feel free to connect with me here:
 
